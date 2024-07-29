@@ -1,32 +1,6 @@
-<style>
-  .typing-svg {
-    display: none;
-  }
-
-  @media (prefers-color-scheme: dark) {
-    .typing-svg-light {
-      display: none;
-    }
-    .typing-svg-dark {
-      display: block;
-    }
-  }
-
-  @media (prefers-color-scheme: light) {
-    .typing-svg-dark {
-      display: none;
-    }
-    .typing-svg-light {
-      display: block;
-    }
-  }
-</style>
-
 <p>
   <a href="https://git.io/typing-svg">
-    <img class="typing-svg-light" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=2000&color=000000&multiline=true&width=700&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Hayk;Passionate+Back-End+Developer+from+Armenia;Turning+complex+problems+into+elegant+solutions" alt="Typing SVG Light Mode" />
-    <img class="typing-svg-dark" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=2000&color=FFFFFF&multiline=true&width=700&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Hayk;Passionate+Back-End+Developer+from+Armenia;Turning+complex+problems+into+elegant+solutions" alt="Typing SVG Dark Mode" />
-  </a>
+    <img class="typing-svg-light" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=2000&color=000000&multiline=true&width=700&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Hayk;Passionate+Back-End+Developer+from+Armenia;Turning+complex+problems+into+elegant+solutions" alt="Typing SVG Light Mode" /></a>
 </p>
 
 # ✨ About Me
